@@ -15,14 +15,18 @@ p {
   color: maroon;
 }
 p.blueberry {
-  color: purple
+  color: purple;
 }
+
 p.raspberry {
-  color: blue
+  color: blue;
 }
-blockquot.greentea,p.greentea {
+
+blockquot.greentea,
+p.greentea {
   color: green;
 }
+
 p.klukva {
-  color: coral
+  color: coral;
 }
