@@ -14,3 +14,12 @@ h1 {
 p {
   color: maroon;
 }
+p. blueberry {
+  color: purple
+}
+p.raspberry {
+  color: blue
+}
+blockquot.greentea,p.greentea {
+  color: green;
+}
