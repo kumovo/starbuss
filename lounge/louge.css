@@ -14,7 +14,7 @@ h1 {
 p {
   color: maroon;
 }
-p. blueberry {
+p.blueberry {
   color: purple
 }
 p.raspberry {
@@ -22,4 +22,7 @@ p.raspberry {
 }
 blockquot.greentea,p.greentea {
   color: green;
+}
+p.klukva {
+  color: coral
 }
