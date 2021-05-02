@@ -35,3 +35,9 @@ p.greentea {
 p.klukva {
   color: coral;
 }
+.guarantee {
+ border-color: black;
+ border-width: 1px;
+ border-style: solid;
+ background-color: #a7cece;
+}
